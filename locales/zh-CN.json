@@ -63,7 +63,7 @@
     "News": "消息",
     "Random Waifu": "消息",
     "show post": "显示帖子",
-    "show post": "显示更多",
+    "show more": "显示更多",
 
     "__comments-3": "Content",
     "latest": "趋势",
@@ -74,7 +74,9 @@
     "clubs": "俱乐部",
     "creator": "创造者",
     "creators": "创造者",
-    "collections": "集合",
+    "collection": "收藏",
+    "collections": "收藏",
+    "episode": "剧集",
     "episodes": "剧集",
     "group": "团体",
     "groups": "团体",
@@ -82,6 +84,7 @@
     "songs": "歌曲",
     "tags": "标签",
     "user": "用户",
+    "full text": "全文",
     "all": "全部",
 
     "__comments-4": "Content",
