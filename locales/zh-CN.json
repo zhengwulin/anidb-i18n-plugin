@@ -62,13 +62,20 @@
     "__comments-3": "Content",
     "latest": "趋势",
     "anime": "动漫",
+    "character": "人物",
     "characters": "人物",
+    "club": "俱乐部",
     "clubs": "俱乐部",
+    "creator": "创造者",
     "creators": "创造者",
     "collections": "集合",
+    "episodes": "剧集",
+    "group": "团体",
     "groups": "团体",
     "songs": "歌曲",
     "tags": "标签",
+    "user": "用户",
+    "all": "全部",
 
     "__comments-4": "Content",
     "forum": "论坛",
@@ -86,6 +93,28 @@
     "__comments-6": "Content",
     "login": "登陆",
     "register": "注册",
+    "register": "注册",
+
+
+    "AniDB Statistics": "AniDB 统计数据",
+    "Anime": "动漫",
+    "Episodes": "剧集",
+    "Characters": "人物",
+    "Creators": "创作者",
+    "Songs": "歌曲",
+    "Collections": "收藏",
+    "Clubs": "俱乐部",
+    "Tags": "标签",
+    "Cast credits": "演员表",
+    "Staff credits": "员工表",
+
+
+
+
+
+    "HINT:": "提示",
+    "Found an incorrect entry? Something is missing? Registered users can edit all entries. Why not :": "提示",
+    "HINT:": "提示",
 
  
     "__dict-end": "end"
