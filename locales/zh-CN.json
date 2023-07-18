@@ -75,8 +75,7 @@
     "forum": "论坛",
     "help": "帮助",
     "irc": "隐私",
-    "report": "支援",
-    "Report mistake": "支援2",
+    "report error": "支援2",
     "software": "商店",
     "staff": "职员",
 
@@ -86,8 +85,8 @@
     "policies": "整车",
 
     "__comments-6": "Bottom",
-    "user-login": "登陆",
-    "user-signup": "注册",
+    "login": "登陆",
+    "signup": "注册",
 
  
     "__dict-end": "end"
