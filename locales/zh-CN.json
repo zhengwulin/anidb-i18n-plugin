@@ -175,8 +175,13 @@
 
 
     "HINT:": "提示",
-    "Found an incorrect entry? Something is missing? Registered users can edit all entries. Why not :": "提示",
+    "show all threads:": "显示所有主题",
+    "add new thread:": "添加新话题",
+    "add/edit tags:": "添加/编辑标签",
+    "add new release:": "添加新版本",
     "HINT:": "提示",
+
+
 
  
     "__dict-end": "end"
