@@ -91,6 +91,8 @@
     "report error": "支援",
     "software": "商店",
     "staff": "职员",
+    "main": "主要",
+    "outbox": "邮箱",
 
      "__comments-5": "Content",
     "donate": "捐助",
@@ -99,9 +101,10 @@
 
     "__comments-6": "Content",
     "login": "登陆",
+    "Login": "登陆",
     "register": "注册",
     "Forgot your username or password?": "忘记用户名或密码？",
-    "remember me on next visit": "下次访问时记住我",
+    " remember me on next visit": "下次访问时记住我",
     "stay logged in": "保持登录状态",
 
 
