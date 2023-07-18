@@ -78,7 +78,7 @@
     "add Songs": "添加 歌曲1",
     "add songs": "添加 歌曲2",
     "add song": "添加 歌曲3",
-    "latest files": "添加 文件",
+    "latest files": "添加文件",
     "vote graph": "投票图",
     "relation graph": "关系图",
 
@@ -120,8 +120,9 @@
     "my hints": "我的爆肝",
     "my reports": "团体",
     "my signatures": "歌曲",
-    "import": "导入",
-    "Import": "导入",
+    "import": "导入1",
+    "Import": "导入2",
+    "mylist import": "导入3",
     "export": "导出",
     "Export": "导出",
 
