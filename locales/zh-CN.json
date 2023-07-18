@@ -68,6 +68,18 @@
     "show post": "显示帖子",
     "show more": "显示更多",
     "show my hints": "显示我的提示",
+    
+    "add Related Anime": "添加相关动漫",
+    "add Similar Anime": "添加类似动漫",
+    "add Recommendation": "添加推荐",
+    "add Review": "添加评论",
+    "add Cast": "添加 演员",
+    "add Staff": "添加 人员",
+    "add Songs": "添加 歌曲",
+    "latest files": "添加 文件",
+    "vote graph": "投票图",
+    "relation graph": "关系图",
+
 
     "__comments-3": "Content",
     "latest": "趋势",
@@ -108,6 +120,9 @@
     "my signatures": "歌曲",
     "Import": "导入",
     "Export": "导出",
+
+    "creqs": "克里克斯",
+    "mod latest": "最新模组",
 
     "__comments-4": "Content",
     "forum": "论坛",
