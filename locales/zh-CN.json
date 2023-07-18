@@ -53,7 +53,7 @@
     "friday": "星期五",
     "saturday": "星期六",
 
-    "__comments-2": "HomePage",
+    "sub-menu main": "菜单",
     "search": "搜索",
     "season chart": "季度",
     "schedule": "日常",
@@ -74,7 +74,7 @@
     "forum": "论坛",
     "help": "帮助",
     "irc": "隐私",
-    "report error": "支援2",
+    "report error": "支援",
     "software": "商店",
     "staff": "职员",
 
