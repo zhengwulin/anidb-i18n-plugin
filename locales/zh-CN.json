@@ -54,24 +54,23 @@
     "saturday": "星期六",
 
     "__comments-2": "HomePage",
-    "sign in": "登录",
-    "sign up": "注册",
-    "team": "团队",
-    "enterprise": "企业",
-    "pricing": "价格",
+    "search": "搜索",
+    "season chart": "季度",
+    "schedule": "日常",
+    "random": "随机",
 
-    "__comments-1": "Content",
+    "__comments-3": "Content",
     "latest": "趋势",
     "anime": "动漫",
-    "character": "人物",
-    "club": "俱乐部",
-    "creator": "创造者",
+    "characters": "人物",
+    "clubs": "俱乐部",
+    "creators": "创造者",
     "collections": "集合",
-    "group": "团体",
-    "song": "歌曲",
+    "groups": "团体",
+    "songs": "歌曲",
     "tags": "标签",
 
-    "__comments-4": "Bottom",
+    "__comments-4": "Content",
     "forum": "论坛",
     "help": "帮助",
     "irc": "隐私",
@@ -79,14 +78,14 @@
     "software": "商店",
     "staff": "职员",
 
-     "__comments-5": "Bottom",
+     "__comments-5": "Content",
     "donate": "捐助",
     "credits": "帮助",
     "policies": "整车",
 
-    "__comments-6": "Bottom",
+    "__comments-6": "Content",
     "login": "登陆",
-    "signup": "注册",
+    "register": "注册",
 
  
     "__dict-end": "end"
