@@ -55,9 +55,15 @@
 
     "sub-menu main": "菜单",
     "search": "搜索",
+    "advanced search": "高级搜索",
     "season chart": "季度",
     "schedule": "日常",
     "random": "随机",
+    "Main": "主要",
+    "News": "消息",
+    "Random Waifu": "消息",
+    "show post": "显示帖子",
+    "show post": "显示更多",
 
     "__comments-3": "Content",
     "latest": "趋势",
@@ -72,6 +78,7 @@
     "episodes": "剧集",
     "group": "团体",
     "groups": "团体",
+    "mylist": "我的列表",
     "songs": "歌曲",
     "tags": "标签",
     "user": "用户",
@@ -93,7 +100,9 @@
     "__comments-6": "Content",
     "login": "登陆",
     "register": "注册",
-    "register": "注册",
+    "Forgot your username or password?": "忘记用户名或密码？",
+    "remember me on next visit": "下次访问时记住我",
+    "stay logged in": "保持登录状态",
 
 
     "AniDB Statistics": "AniDB 统计数据",
