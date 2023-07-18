@@ -74,11 +74,11 @@
     "this week": "本周",
     "this month": "本月",
 
-    "__comments-3": "explore",
+    "sub-menu listings": "Content",
     "collections": "集合",
-    "trending": "趋势",
-    "events": "事件",
-    "github sponsors": "GitHub 赞助",
+    "latest": "趋势",
+    "anime": "动漫",
+    "character": "GitHub 赞助",
 
     "__comments-4": "Bottom",
     "terms": "服务条款",
@@ -1529,11 +1529,11 @@
     "stop ignoring": "取消忽略",
     "back to notifications": "回到通知",
 
-    "🎯 assigned": "🎯 已分配",
-    "💬 participating": "💬 参与",
-    "✋ mentioned": "✋ 提及",
-    "🙌 team mentioned": "🙌 提到的团队",
-    "👀 review requested": "👀 审查请求",
+    "?? assigned": "?? 已分配",
+    "?? participating": "?? 参与",
+    "? mentioned": "? 提及",
+    "?? team mentioned": "?? 提到的团队",
+    "?? review requested": "?? 审查请求",
     "filter inbox by…": "过滤收件箱…",
     "create": "创建",
 
